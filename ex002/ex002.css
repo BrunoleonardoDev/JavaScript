@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: #3f3557 ;
+    background-color: #202020 ;
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -23,7 +23,7 @@ main{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #8f3c68;
+    background-color: #212121;
     border-radius: 8px;
     width: 350px;
     padding: .5rem;
